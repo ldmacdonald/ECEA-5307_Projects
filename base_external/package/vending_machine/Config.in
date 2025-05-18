@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_VENDING_MACHINE
+	bool "vending-machine"
+	help
+	  Core vending machine package.

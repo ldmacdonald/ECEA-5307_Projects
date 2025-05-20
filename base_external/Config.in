@@ -1,1 +1,1 @@
-source "$BR2_EXTERNAL_project_base_PATH/package/vend_mach/Config.in"
+source "$BR2_EXTERNAL_project_base_PATH/package/vending_machine/Config.in"

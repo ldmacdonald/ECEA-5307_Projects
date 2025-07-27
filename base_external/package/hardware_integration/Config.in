@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_HARDWARE_INTEGRATION
+	bool "hardware-integration"
+	help
+	  Hardware integration package.
